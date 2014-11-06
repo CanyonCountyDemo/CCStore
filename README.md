@@ -1,4 +1,4 @@
 CCStore
 =======
 
-Object Storage
+Object Storage - before I learned how cool JSON was, sigh.
