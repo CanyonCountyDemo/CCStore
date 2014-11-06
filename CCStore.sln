@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCStore", "CCStore\CCStore.csproj", "{AD2B24F7-BB53-4358-8E2C-19B0A094AE3E}"
 EndProject
 Global

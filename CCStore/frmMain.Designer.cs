@@ -40,9 +40,9 @@
       // 
       // listBox1
       // 
-      this.listBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                  | System.Windows.Forms.AnchorStyles.Left)
-                  | System.Windows.Forms.AnchorStyles.Right)));
+      this.listBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
       this.listBox1.FormattingEnabled = true;
       this.listBox1.Location = new System.Drawing.Point(13, 13);
       this.listBox1.Name = "listBox1";
@@ -123,8 +123,8 @@
       this.Controls.Add(this.listBox1);
       this.Name = "frmMain";
       this.Text = "CCStore Test App";
-      this.Move += new System.EventHandler(this.frmMain_Move);
       this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmMain_FormClosing);
+      this.Move += new System.EventHandler(this.frmMain_Move);
       this.Resize += new System.EventHandler(this.frmMain_Move);
       this.ResumeLayout(false);
 
